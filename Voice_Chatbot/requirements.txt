@@ -1,0 +1,7 @@
+
+streamlit
+openai
+gtts
+speechrecognition
+pydub
+python-dotenv
